@@ -12,10 +12,11 @@ I'm a **battle-tested developer** with a passion for building **clean**, **scala
 - Lead development from zero to production, across teams and time zones.
 - Solve real-world problems with **clean code**, **clear vision**, and a **get-it-done** mindset.
   <br clear="both">
+##
 
 ### 💻 My Main Skills:
 
-______
+
 
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
@@ -75,8 +76,9 @@ ______
 <br><br>
 </div>
 
-____
-###
+
+##
+
 <div align="center" >
 
 [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=NeverGiveup0601&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
