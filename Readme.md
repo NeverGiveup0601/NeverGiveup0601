@@ -16,7 +16,7 @@ I'm a **battle-tested developer** with a passion for building **clean**, **scala
 
 ### 💻 My Main Skills:
 
-
+<br/>
 
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
@@ -73,11 +73,12 @@ I'm a **battle-tested developer** with a passion for building **clean**, **scala
         </td>
     </tr>
 </table>
-<br><br>
 </div>
 
 
 ##
+
+<br/>
 
 <div align="center" >
 
