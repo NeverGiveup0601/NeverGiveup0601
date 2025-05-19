@@ -1,23 +1,21 @@
 ###
+
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?lines=Never+Giveup!;I'm+a+Full-Stack+developer;Always+learning+new+things;Together,+we+can+shape+a+decentralized+future&center=true&width=500&height=50">
 </p>
 
-<h3 align="center">
-I'm a battle-tested developer with a passion for building clean, scalable, and high-impact web applications. With deep experience across the full stack — from blazing-fast frontends with React/Next.js to rock-solid backends with Node.js and Django — I architect solutions that scale and ship features that matter.
+## Hi... I'm John <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" />
 
-</h3>
-<br clear="both">
+I'm a **battle-tested developer** with a passion for building **clean**, **scalable**, and **high-impact** web applications. With deep experience across the **full stack** — from blazing-fast frontends with **_React/Next.js_** to rock-solid backends with **_Node.js_** and **_Django_** — I architect solutions that scale and ship features that matter.
 
-###
+- Architect full-stack systems with **performance**, **maintainability**, and _UX_ in mind.
+- Lead development from zero to production, across teams and time zones.
+- Solve real-world problems with **clean code**, **clear vision**, and a **get-it-done** mindset.
+  <br clear="both">
 
-<div align="center" >
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NeverGiveup0601&locale=en&hide_title=false&hide=html,MDX,css,PHP,Javascript,makefile,Batchfile,handlebars,shell&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+### 💻 My Main Skills:
 
-###
-
-# 💻 My Main Skills:
+<hr/>
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
     <tr>
@@ -75,8 +73,20 @@ I'm a battle-tested developer with a passion for building clean, scalable, and h
 </table>
 <br><br>
 </div>
+<hr/>
 
-<h2 align="center">✨Code is poetry, and I write symphonies.✨</h2>
+###
+<div align="center" >
+
+[![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=NeverGiveup0601&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+
+[![John Mwendwa's current streak](https://streak-stats.demolab.com/?user=NeverGiveup0601&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+
+</div>
+
+###
+
+<h3 align="center">✨Code is poetry, and I write symphonies.✨</h3>
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
