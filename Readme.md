@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?lines=Never+Giveup!;I'm+a+Full-Stack+developer;Always+learning+new+things;Together,+we+can+shape+a+decentralized+future&center=true&width=500&height=50">
 </p>
 
-## Hi... I'm Kenneth <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" />
+## Hi... I'm Rey <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" />
 
 I'm a **battle-tested developer** with a passion for building **clean**, **scalable**, and **high-impact** web applications. With deep experience across the **full stack** — from blazing-fast frontends with **_React/Next.js_** to rock-solid backends with **_Node.js_** and **_Django_** — I architect solutions that scale and ship features that matter.
 
